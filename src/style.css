@@ -1,0 +1,14 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+body{
+    header{
+        background-color: rgb(112, 112, 245);
+    }
+}
+
+.text-xs .text-inherit{
+    color: gray;
+}
